@@ -2,7 +2,7 @@
 
 I studied Digital Economics and Business at Università Politecnica delle Marche (BSc, 2026).
 
-I come to data from economics, not computer science, so right now most of my energy goes into building the technical side: Python, R and SQL. What lands on this profile is the record of that learning, mostly coursework, small analyses and notes, published as I go. 
+I come to data from economics, not computer science, so right now most of my energy goes into building the technical side: Python,gretl, QGIS, R and SQL. What lands on this profile is the record of that learning, mostly coursework, small analyses and notes, published as I go. 
 
 ## Projects
 
