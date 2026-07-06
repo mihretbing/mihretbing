@@ -8,9 +8,9 @@ I come to data from economics, not computer science, so right now most of my ene
 
 | Project | What it is |
 |---------|------------|
-| [ukraine-war-discourse-analysis](https://github.com/mihretbing/ukraine-war-discourse-analysis) | My bachelor's thesis: how pro-Russian Telegram channels adapted their messaging across major events of the war |
-| [telegram-channel-scraper](https://github.com/mihretbing/telegram-channel-scraper) | A general-purpose Telegram channel scraper that grew out of the thesis work |
-| [italy-macro-econometrics](https://github.com/mihretbing/italy-macro-econometrics) | Time series analysis of Italian GDP data in Gretl |
+| [ukraine-war-discourse-analysis](https://github.com/mihretabworku/ukraine-war-discourse-analysis) | My bachelor's thesis: how pro-Russian Telegram channels adapted their messaging across major events of the war |
+| [telegram-channel-scraper](https://github.com/mihretabworku/telegram-channel-scraper) | A general-purpose Telegram channel scraper that grew out of the thesis work |
+| [italy-macro-econometrics](https://github.com/mihretabworku/italy-macro-econometrics) | Time series analysis of Italian GDP data in Gretl |
 
 ## Contact
 
